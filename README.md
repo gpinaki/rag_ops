@@ -1,4 +1,4 @@
-# 🧠 Research Assistant ChatBot
+# 🧠 RAG Ops - RAG Based File Management and Search using FastAPI, Streamlit and Langchain
 
 A powerful and intelligent research assistant built using **LangChain** and **Streamlit**, leveraging **Retrieval Augmented Generation (RAG)** to provide context-aware responses directly from your documents.
 
